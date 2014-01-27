@@ -7,6 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D49AB1E1815297500661DB7 /* hang_0.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB101815297500661DB7 /* hang_0.gif */; };
+		3D49AB1F1815297500661DB7 /* hang_0@2x.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB111815297500661DB7 /* hang_0@2x.gif */; };
+		3D49AB201815297500661DB7 /* hang_1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB121815297500661DB7 /* hang_1.gif */; };
+		3D49AB211815297500661DB7 /* hang_1@2x.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB131815297500661DB7 /* hang_1@2x.gif */; };
+		3D49AB221815297500661DB7 /* hang_2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB141815297500661DB7 /* hang_2.gif */; };
+		3D49AB231815297500661DB7 /* hang_2@2x.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB151815297500661DB7 /* hang_2@2x.gif */; };
+		3D49AB241815297500661DB7 /* hang_3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB161815297500661DB7 /* hang_3.gif */; };
+		3D49AB251815297500661DB7 /* hang_3@2x.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB171815297500661DB7 /* hang_3@2x.gif */; };
+		3D49AB261815297500661DB7 /* hang_4.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB181815297500661DB7 /* hang_4.gif */; };
+		3D49AB271815297500661DB7 /* hang_4@2x.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB191815297500661DB7 /* hang_4@2x.gif */; };
+		3D49AB281815297500661DB7 /* hang_5.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB1A1815297500661DB7 /* hang_5.gif */; };
+		3D49AB291815297500661DB7 /* hang_5@2x.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB1B1815297500661DB7 /* hang_5@2x.gif */; };
+		3D49AB2A1815297500661DB7 /* hang_6.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB1C1815297500661DB7 /* hang_6.gif */; };
+		3D49AB2B1815297500661DB7 /* hang_6@2x.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D49AB1D1815297500661DB7 /* hang_6@2x.gif */; };
+		3DDC457C180F947B00076634 /* HangmanViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3DDC457B180F947B00076634 /* HangmanViewController.xib */; };
 		3DE8DF73180B595500BCC3EC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DE8DF72180B595500BCC3EC /* Foundation.framework */; };
 		3DE8DF75180B595500BCC3EC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DE8DF74180B595500BCC3EC /* CoreGraphics.framework */; };
 		3DE8DF77180B595500BCC3EC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DE8DF76180B595500BCC3EC /* UIKit.framework */; };
@@ -19,6 +34,11 @@
 		3DE8DF8E180B595500BCC3EC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DE8DF76180B595500BCC3EC /* UIKit.framework */; };
 		3DE8DF96180B595500BCC3EC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3DE8DF94180B595500BCC3EC /* InfoPlist.strings */; };
 		3DE8DF98180B595500BCC3EC /* HangmanTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DE8DF97180B595500BCC3EC /* HangmanTests.m */; };
+		3DE8DFA4180B5A7800BCC3EC /* HangmanWords.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DE8DFA2180B5A7800BCC3EC /* HangmanWords.m */; };
+		3DE8DFA5180B5A7800BCC3EC /* words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3DE8DFA3180B5A7800BCC3EC /* words.plist */; };
+		3DE8DFA8180B5BE400BCC3EC /* HangmanModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DE8DFA7180B5BE400BCC3EC /* HangmanModel.m */; };
+		3DE8DFEA180E56B800BCC3EC /* HangmanView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DE8DFE9180E56B800BCC3EC /* HangmanView.m */; };
+		3DE8DFED180E58FF00BCC3EC /* HangmanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DE8DFEC180E58FF00BCC3EC /* HangmanViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +52,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3D49AB101815297500661DB7 /* hang_0.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hang_0.gif; sourceTree = "<group>"; };
+		3D49AB111815297500661DB7 /* hang_0@2x.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "hang_0@2x.gif"; sourceTree = "<group>"; };
+		3D49AB121815297500661DB7 /* hang_1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hang_1.gif; sourceTree = "<group>"; };
+		3D49AB131815297500661DB7 /* hang_1@2x.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "hang_1@2x.gif"; sourceTree = "<group>"; };
+		3D49AB141815297500661DB7 /* hang_2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hang_2.gif; sourceTree = "<group>"; };
+		3D49AB151815297500661DB7 /* hang_2@2x.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "hang_2@2x.gif"; sourceTree = "<group>"; };
+		3D49AB161815297500661DB7 /* hang_3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hang_3.gif; sourceTree = "<group>"; };
+		3D49AB171815297500661DB7 /* hang_3@2x.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "hang_3@2x.gif"; sourceTree = "<group>"; };
+		3D49AB181815297500661DB7 /* hang_4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hang_4.gif; sourceTree = "<group>"; };
+		3D49AB191815297500661DB7 /* hang_4@2x.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "hang_4@2x.gif"; sourceTree = "<group>"; };
+		3D49AB1A1815297500661DB7 /* hang_5.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hang_5.gif; sourceTree = "<group>"; };
+		3D49AB1B1815297500661DB7 /* hang_5@2x.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "hang_5@2x.gif"; sourceTree = "<group>"; };
+		3D49AB1C1815297500661DB7 /* hang_6.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hang_6.gif; sourceTree = "<group>"; };
+		3D49AB1D1815297500661DB7 /* hang_6@2x.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "hang_6@2x.gif"; sourceTree = "<group>"; };
+		3DDC457B180F947B00076634 /* HangmanViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HangmanViewController.xib; sourceTree = "<group>"; };
 		3DE8DF6F180B595500BCC3EC /* Hangman.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hangman.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DE8DF72180B595500BCC3EC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3DE8DF74180B595500BCC3EC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -48,6 +83,15 @@
 		3DE8DF93180B595500BCC3EC /* HangmanTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HangmanTests-Info.plist"; sourceTree = "<group>"; };
 		3DE8DF95180B595500BCC3EC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3DE8DF97180B595500BCC3EC /* HangmanTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HangmanTests.m; sourceTree = "<group>"; };
+		3DE8DFA1180B5A7800BCC3EC /* HangmanWords.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HangmanWords.h; sourceTree = "<group>"; };
+		3DE8DFA2180B5A7800BCC3EC /* HangmanWords.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HangmanWords.m; sourceTree = "<group>"; };
+		3DE8DFA3180B5A7800BCC3EC /* words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = words.plist; sourceTree = "<group>"; };
+		3DE8DFA6180B5BE400BCC3EC /* HangmanModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HangmanModel.h; sourceTree = "<group>"; };
+		3DE8DFA7180B5BE400BCC3EC /* HangmanModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HangmanModel.m; sourceTree = "<group>"; };
+		3DE8DFE8180E56B800BCC3EC /* HangmanView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HangmanView.h; sourceTree = "<group>"; };
+		3DE8DFE9180E56B800BCC3EC /* HangmanView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HangmanView.m; sourceTree = "<group>"; };
+		3DE8DFEB180E58FF00BCC3EC /* HangmanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HangmanViewController.h; sourceTree = "<group>"; };
+		3DE8DFEC180E58FF00BCC3EC /* HangmanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HangmanViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +118,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3D49AB0F1815296700661DB7 /* Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				3D49AB101815297500661DB7 /* hang_0.gif */,
+				3D49AB111815297500661DB7 /* hang_0@2x.gif */,
+				3D49AB121815297500661DB7 /* hang_1.gif */,
+				3D49AB131815297500661DB7 /* hang_1@2x.gif */,
+				3D49AB141815297500661DB7 /* hang_2.gif */,
+				3D49AB151815297500661DB7 /* hang_2@2x.gif */,
+				3D49AB161815297500661DB7 /* hang_3.gif */,
+				3D49AB171815297500661DB7 /* hang_3@2x.gif */,
+				3D49AB181815297500661DB7 /* hang_4.gif */,
+				3D49AB191815297500661DB7 /* hang_4@2x.gif */,
+				3D49AB1A1815297500661DB7 /* hang_5.gif */,
+				3D49AB1B1815297500661DB7 /* hang_5@2x.gif */,
+				3D49AB1C1815297500661DB7 /* hang_6.gif */,
+				3D49AB1D1815297500661DB7 /* hang_6@2x.gif */,
+			);
+			name = Pictures;
+			sourceTree = "<group>";
+		};
+		3D49AB2C18159C8F00661DB7 /* ModelView */ = {
+			isa = PBXGroup;
+			children = (
+				3DE8DFA6180B5BE400BCC3EC /* HangmanModel.h */,
+				3DE8DFA7180B5BE400BCC3EC /* HangmanModel.m */,
+				3DE8DFE8180E56B800BCC3EC /* HangmanView.h */,
+				3DE8DFE9180E56B800BCC3EC /* HangmanView.m */,
+			);
+			name = ModelView;
+			sourceTree = "<group>";
+		};
+		3D49AB2D18159C9D00661DB7 /* Words */ = {
+			isa = PBXGroup;
+			children = (
+				3DE8DFA1180B5A7800BCC3EC /* HangmanWords.h */,
+				3DE8DFA2180B5A7800BCC3EC /* HangmanWords.m */,
+				3DE8DFA3180B5A7800BCC3EC /* words.plist */,
+			);
+			name = Words;
+			sourceTree = "<group>";
+		};
 		3DE8DF66180B595500BCC3EC = {
 			isa = PBXGroup;
 			children = (
@@ -107,10 +193,16 @@
 		3DE8DF78180B595500BCC3EC /* Hangman */ = {
 			isa = PBXGroup;
 			children = (
+				3D49AB2C18159C8F00661DB7 /* ModelView */,
+				3D49AB2D18159C9D00661DB7 /* Words */,
+				3D49AB0F1815296700661DB7 /* Pictures */,
+				3DE8DF79180B595500BCC3EC /* Supporting Files */,
 				3DE8DF81180B595500BCC3EC /* AppDelegate.h */,
 				3DE8DF82180B595500BCC3EC /* AppDelegate.m */,
 				3DE8DF84180B595500BCC3EC /* Images.xcassets */,
-				3DE8DF79180B595500BCC3EC /* Supporting Files */,
+				3DE8DFEB180E58FF00BCC3EC /* HangmanViewController.h */,
+				3DE8DFEC180E58FF00BCC3EC /* HangmanViewController.m */,
+				3DDC457B180F947B00076634 /* HangmanViewController.xib */,
 			);
 			path = Hangman;
 			sourceTree = "<group>";
@@ -219,8 +311,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D49AB261815297500661DB7 /* hang_4.gif in Resources */,
+				3D49AB231815297500661DB7 /* hang_2@2x.gif in Resources */,
+				3D49AB1F1815297500661DB7 /* hang_0@2x.gif in Resources */,
+				3D49AB221815297500661DB7 /* hang_2.gif in Resources */,
+				3D49AB211815297500661DB7 /* hang_1@2x.gif in Resources */,
+				3D49AB241815297500661DB7 /* hang_3.gif in Resources */,
+				3D49AB271815297500661DB7 /* hang_4@2x.gif in Resources */,
+				3D49AB281815297500661DB7 /* hang_5.gif in Resources */,
 				3DE8DF7D180B595500BCC3EC /* InfoPlist.strings in Resources */,
+				3DE8DFA5180B5A7800BCC3EC /* words.plist in Resources */,
+				3D49AB251815297500661DB7 /* hang_3@2x.gif in Resources */,
+				3D49AB2A1815297500661DB7 /* hang_6.gif in Resources */,
+				3D49AB2B1815297500661DB7 /* hang_6@2x.gif in Resources */,
+				3D49AB201815297500661DB7 /* hang_1.gif in Resources */,
+				3D49AB1E1815297500661DB7 /* hang_0.gif in Resources */,
+				3D49AB291815297500661DB7 /* hang_5@2x.gif in Resources */,
 				3DE8DF85180B595500BCC3EC /* Images.xcassets in Resources */,
+				3DDC457C180F947B00076634 /* HangmanViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,7 +348,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DE8DF83180B595500BCC3EC /* AppDelegate.m in Sources */,
+				3DE8DFED180E58FF00BCC3EC /* HangmanViewController.m in Sources */,
 				3DE8DF7F180B595500BCC3EC /* main.m in Sources */,
+				3DE8DFEA180E56B800BCC3EC /* HangmanView.m in Sources */,
+				3DE8DFA4180B5A7800BCC3EC /* HangmanWords.m in Sources */,
+				3DE8DFA8180B5BE400BCC3EC /* HangmanModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -443,6 +555,7 @@
 				3DE8DF9D180B595500BCC3EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3DE8DF9E180B595500BCC3EC /* Build configuration list for PBXNativeTarget "HangmanTests" */ = {
 			isa = XCConfigurationList;
@@ -451,6 +564,7 @@
 				3DE8DFA0180B595500BCC3EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

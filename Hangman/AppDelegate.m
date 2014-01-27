@@ -7,14 +7,18 @@
 //
 
 #import "AppDelegate.h"
+#import "HangmanViewController.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+
     // Override point for customization after application launch.
+    
     self.window.backgroundColor = [UIColor whiteColor];
+    self.window.rootViewController = [[HangmanViewController alloc] initWithNibName:@"HangmanViewController" bundle:nil];
     [self.window makeKeyAndVisible];
     return YES;
 }
